@@ -1,0 +1,33 @@
+/* font styles */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Poppins:wght@700&display=swap');
+
+/* Common Style or Utilities */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+
+.influencer {
+    font-size: 24px;
+    color: #3A3A3A;
+}
+
+.button {
+    font-size: 16px;
+    color: #3A3A3A;
+    text-decoration: none;
+
+}
+
+.button {
+    padding: 18px;
+}
